@@ -1,0 +1,14 @@
+{
+    "name": "voronkovich/symfony-console-app",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/console": "^3.3"
+    },
+    "minimum-stability": "stable"
+}
